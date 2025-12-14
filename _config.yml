@@ -192,6 +192,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - _pages/teaching.html
 keep_files:
   - .git
   - .svn
